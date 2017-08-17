@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.Properties.Resources.resources
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\рисованеи\рисованеи\bin\Debug\рисованеи.exe.config
+C:\Users\Admin\source\repos\рисованеи\рисованеи\bin\Debug\рисованеи.exe
+C:\Users\Admin\source\repos\рисованеи\рисованеи\bin\Debug\рисованеи.pdb
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.exe
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.pdb
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.Form1.resources
+C:\Users\Admin\source\repos\рисованеи\рисованеи\obj\Debug\рисованеи.Resource1.resources
